@@ -2,7 +2,7 @@
 
 **About**
 
-This is an upload of my final project for algorithms and data structures 2. The idea behind the project was to create a simple java based applications to find an efficient route for delivary which minimised the total amount of wait time for customers. We had to research a variety of algorithms and implement our chosen algorithm in java using the swing library as the basis for the gui. Our solutions were then tested on an unknown set of data and ranked against each other. My solution, using random nearest neighbour and two opt, came second out of a class of over 200 students. More details on my solution can be found in the report included.
+This is an upload of my final project for algorithms and data structures 2. The idea behind the project was to create a simple java based application to find an efficient route for delivary which minimised the total amount of wait time for customers. We had to research a variety of algorithms and implement our chosen algorithm in java using the swing library as the basis for the gui. Our solutions were then tested on an unknown set of data and ranked against each other. My solution, using random nearest neighbour and two opt, came second out of a class of over 200 students. More details on my solution can be found in the report included.
 
 **To run**
 
